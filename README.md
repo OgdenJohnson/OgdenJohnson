@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @OgdenJohnson
-- I'm interested in smart contracts.
-- I'm currently learning Java. 
